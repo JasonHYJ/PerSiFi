@@ -1,0 +1,29 @@
+{
+  "total_source_entries": 80,
+  "exact_values_used_in_kde": 73,
+  "lower_bound_only_entries_excluded_from_kde": 7,
+  "exact_periods_above_7200_s": [
+    7877.0
+  ],
+  "checkpoints_s": [
+    300.0,
+    600.0,
+    1200.0,
+    1500.0,
+    1800.0,
+    3600.0,
+    7200.0
+  ],
+  "bandwidth_s": 322.3439815096782,
+  "kernel": "Gaussian",
+  "boundary_correction": "reflection at zero",
+  "density_scope": "exact-value subset only; not censoring-adjusted",
+  "synthetic_values_added": 0,
+  "period_values_clipped": 0,
+  "source_split_membership": "not recorded in the existing source file",
+  "figure_size_mm": [
+    183,
+    78
+  ],
+  "verification_status": "visual and numerical QA reported separately"
+}
